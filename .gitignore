@@ -3,3 +3,4 @@
 *.suo
 munin-node.vcproj.*
 *.VC.db
+*.VC.VC.opendb
